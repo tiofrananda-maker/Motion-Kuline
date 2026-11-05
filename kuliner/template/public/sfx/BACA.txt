@@ -1,0 +1,6 @@
+SFX tidak disertakan di repo publik (sumber/lisensi file asli belum terverifikasi).
+Taruh file SFX kamu sendiri di folder ini dengan nama yang dipakai di src/Kuliner.tsx:
+whoosh.wav, card-slide-1.mp3, card-slide-3.mp3, card-slide-5.mp3, click-soft.mp3, coin-collect.mp3,
+glass-002.mp3, hover-tick.mp3, impact-soft-medium-001.mp3, impact-wood-light-001.mp3,
+notification-pop.mp3, success-chime.mp3, switch-on.mp3, tick-001.mp3, bonang.wav
+Sumber gratis CC0 yang disarankan: https://kenney.nl/assets (Interface Sounds, Impact Sounds, Casino Audio).

@@ -1,0 +1,1 @@
+Klip B-roll proyek ini. Isi dari FOOTAGE\<nama>\broll\ milik Tio atau dari tools/broll.py.

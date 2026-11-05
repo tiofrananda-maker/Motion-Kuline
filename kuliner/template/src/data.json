@@ -1,0 +1,66 @@
+{
+ "total": 101.7,
+ "segments": {
+  "hook": {
+   "start": 0.0,
+   "dur": 4.4
+  },
+  "intro": {
+   "start": 4.4,
+   "dur": 4.133
+  },
+  "unik": {
+   "start": 8.533,
+   "dur": 6.567
+  },
+  "ajaib": {
+   "start": 15.1,
+   "dur": 4.867
+  },
+  "tanpa": {
+   "start": 19.967,
+   "dur": 11.233
+  },
+  "bumbu": {
+   "start": 31.2,
+   "dur": 10.2
+  },
+  "panggang2": {
+   "start": 41.4,
+   "dur": 4.8
+  },
+  "bestseller": {
+   "start": 46.2,
+   "dur": 5.767
+  },
+  "wedang": {
+   "start": 51.967,
+   "dur": 5.633
+  },
+  "menubaru": {
+   "start": 57.6,
+   "dur": 4.267
+  },
+  "tempat": {
+   "start": 61.867,
+   "dur": 9.467
+  },
+  "info": {
+   "start": 71.333,
+   "dur": 8.9
+  },
+  "makan": {
+   "start": 80.233,
+   "dur": 6.167
+  },
+  "cta": {
+   "start": 86.4,
+   "dur": 10.4
+  },
+  "outro": {
+   "start": 96.8,
+   "dur": 4.9
+  }
+ },
+ "captions": []
+}

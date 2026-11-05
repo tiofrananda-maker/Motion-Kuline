@@ -1,0 +1,15 @@
+node_modules/
+__pycache__/
+*.pyc
+out/
+public/video/
+public/broll/*.mp4
+FOOTAGE/
+PROYEK/
+HASIL/
+SOUND EFFEC/
+BROLL/
+*.mov
+*.MOV
+*.mp4
+.env
